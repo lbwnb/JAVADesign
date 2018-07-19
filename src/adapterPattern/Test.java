@@ -1,4 +1,4 @@
-package test;
+package adapterPattern;
 
 public class Test {
 public static void main(String[] args) {

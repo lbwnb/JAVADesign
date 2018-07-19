@@ -1,4 +1,4 @@
-package inter;
+package Factorymodel;
 
 public interface Human {
 public void eat();

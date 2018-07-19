@@ -1,4 +1,4 @@
-package test;
+package adapterPattern;
 
 //实现旧接口
 public class SocketAdapter implements DBSocketInterface {

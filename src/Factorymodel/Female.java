@@ -1,26 +1,26 @@
-package cla;
+package Factorymodel;
 
-import inter.Human;
-
-public class Male implements Human {
+public class Female implements Human {
 
 	@Override
 	public void eat() {
 		// TODO Auto-generated method stub
-		System.out.println("Male can eat.");
+		System.out.println("Famale can eat.");
+
 	}
 
 	@Override
 	public void sleep() {
 		// TODO Auto-generated method stub
-		System.out.println("Male can sleep.");
+		System.out.println("Female can sleep.");
+
 	}
 
 	@Override
 	public void beat() {
 		// TODO Auto-generated method stub
-		System.out.println("Male can beat.");
+		System.out.println("Female can beat.");
+
 	}
-	
 
 }

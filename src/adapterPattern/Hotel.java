@@ -1,4 +1,4 @@
-package test;
+package adapterPattern;
 
 /**
  * µÂ¹ú±ö¹Ý

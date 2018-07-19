@@ -1,7 +1,4 @@
-package test;
-
-import cla.HumanFactory;
-import inter.Human;
+package Factorymodel;
 
 //普通工厂模式
 /*public class FactoryTest {

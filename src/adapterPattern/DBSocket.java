@@ -1,4 +1,4 @@
-package test;
+package adapterPattern;
 
 public class DBSocket implements DBSocketInterface {
 
